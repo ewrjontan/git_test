@@ -1,1 +1,1 @@
-This is Jonathan's girst git project!
+This is Jonathan's first git project!
